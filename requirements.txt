@@ -1,0 +1,10 @@
+scikit-learn
+pandas 
+numpy
+matplotlib
+seaborn 
+scipy
+jupyter
+pyarrow
+varclushi
+woe-credit-scoring
