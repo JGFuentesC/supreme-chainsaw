@@ -1,4 +1,4 @@
-*.venv/
+**/*.venv/
 **/*.csv
 **/*.parquet
 **/__pycache__/
@@ -6,3 +6,5 @@
 **/.gcloudignore
 **/*.sh
 **/.DS_Store
+**/*.env
+**/.trufflehog-excludes
